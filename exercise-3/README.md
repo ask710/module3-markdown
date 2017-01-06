@@ -9,3 +9,8 @@ In the space below, provide some information about a terminal command you've lea
 Note that you can preview this Markdown in Atom to make sure it works correctly. See `complete` branch for an example.
 
 ---
+# CAT
+`cat file.txt`
+- shows content of a file
+- can display non-printing characters
+- can make output single spaced
